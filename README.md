@@ -1,4 +1,4 @@
-# Plate Vision — Automatic License Plate Detection & Recognition
+# Plate Vision — License Plate Detection & Recognition
 
 ## Overview
 
