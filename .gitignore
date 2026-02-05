@@ -10,7 +10,7 @@ venv/
 runs/
 outputs/
 output/
-*.mp4
+
 *.zip
 
 # Models
