@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Training outputs / media
+runs/
+outputs/
+output/
+*.mp4
+*.zip
+
+# Models
+*.pt
+
+# OS
+.DS_Store
