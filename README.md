@@ -1,5 +1,8 @@
 Plate Vision
 
+![Demo](demo/demo.mp4)
+
+
 Real-Time License Plate Detection & Tracking System
 
 Overview
